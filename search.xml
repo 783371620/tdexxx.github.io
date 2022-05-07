@@ -5,9 +5,9 @@
     <url>/2022/05/07/%E8%AE%B0%E4%B8%80%E6%AC%A1vmware%E7%BB%99Linux%E7%B3%BB%E7%BB%9F%E6%B7%BB%E5%8A%A0%E7%A1%AC%E7%9B%98/</url>
     <content><![CDATA[<p>由于最近用<a href="https://www.vmware.com/cn/products/workstation-pro/workstation-pro-evaluation.html">vmware</a>编译openwrt,导致单个虚拟磁盘文件过大，准备分开存储Linux系统文件和openwrt编译文件。</p>
 <h2 id="初步准备"><a href="#初步准备" class="headerlink" title="初步准备"></a>初步准备</h2><h3 id="1-先用df命令产看当前已挂载的磁盘"><a href="#1-先用df命令产看当前已挂载的磁盘" class="headerlink" title="1.先用df命令产看当前已挂载的磁盘"></a>1.先用df命令产看当前已挂载的磁盘</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ <span class="built_in">df</span> -h</span><br></pre></td></tr></table></figure>
-<p>![](df -h.png)</p>
+<p><img src="/.com//df-h.png"></p>
 <h3 id="2-使用fdisk命令查看所有分区"><a href="#2-使用fdisk命令查看所有分区" class="headerlink" title="2.使用fdisk命令查看所有分区"></a>2.使用fdisk命令查看所有分区</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">~$ sudo fdisk -l</span><br></pre></td></tr></table></figure>
-<p>![](fdisk -l.png)</p>
+<p><img src="/.com//fdisk-l.png"></p>
 ]]></content>
   </entry>
 </search>
