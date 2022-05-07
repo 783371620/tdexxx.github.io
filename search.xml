@@ -9,7 +9,7 @@
 <p><img src="/.com//pic1.png"></p>
 <h3 id="2-使用fdisk命令查看所有分区"><a href="#2-使用fdisk命令查看所有分区" class="headerlink" title="2.使用fdisk命令查看所有分区"></a>2.使用fdisk命令查看所有分区</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">~$ sudo fdisk -l</span><br></pre></td></tr></table></figure>
 
-<p><img src="/.com//pic2.png"></p>
+<p><img src="/.com//pic1.png"></p>
 ]]></content>
   </entry>
 </search>
