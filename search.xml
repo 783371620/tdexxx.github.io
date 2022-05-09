@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>test</title>
+    <url>/2022/05/08/test/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
     <title>Vmware_ubuntu添加虚拟硬盘</title>
     <url>/2022/05/07/%E8%AE%B0%E4%B8%80%E6%AC%A1vmware%E7%BB%99Linux%E7%B3%BB%E7%BB%9F%E6%B7%BB%E5%8A%A0%E7%A1%AC%E7%9B%98/</url>
     <content><![CDATA[<p>由于最近用<a href="https://www.vmware.com/cn/products/workstation-pro/workstation-pro-evaluation.html">vmware workstation</a> linux编译openwrt,导致单个虚拟磁盘文件过大，故分开存储Linux系统文件和openwrt编译文件。</p>
@@ -62,10 +67,5 @@
 <h2 id="结束语"><a href="#结束语" class="headerlink" title="结束语"></a>结束语</h2><p>无，放张图</p>
 <p><img src="/img/Vmware_ubuntu%E6%B7%BB%E5%8A%A0%E8%99%9A%E6%8B%9F%E7%A1%AC%E7%9B%98/furry.jpg" alt="furry.jpg"></p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>test</title>
-    <url>/2022/05/08/test/</url>
-    <content><![CDATA[]]></content>
   </entry>
 </search>
