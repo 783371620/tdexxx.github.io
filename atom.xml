@@ -6,7 +6,7 @@
   <link href="https://blog.lllm.ml/atom.xml" rel="self"/>
   
   <link href="https://blog.lllm.ml/"/>
-  <updated>2022-05-10T09:14:06.225Z</updated>
+  <updated>2022-05-11T01:03:11.000Z</updated>
   <id>https://blog.lllm.ml/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>video</title>
+    <link href="https://blog.lllm.ml/2022/05/10/video/"/>
+    <id>https://blog.lllm.ml/2022/05/10/video/</id>
+    <published>2022-05-10T16:51:46.000Z</published>
+    <updated>2022-05-11T01:03:11.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="视频播放测试"><a href="#视频播放测试" class="headerlink" title="视频播放测试"></a>视频播放测试</h2><iframe src="https://www.bilibili.com/video/BV1jW411K7yg" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="580" quality="high"> </iframe>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;视频播放测试&quot;&gt;&lt;a href=&quot;#视频播放测试&quot; class=&quot;headerlink&quot; title=&quot;视频播放测试&quot;&gt;&lt;/a&gt;视频播放测试&lt;/h2&gt;&lt;iframe src=&quot;https://www.bilibili.com/video/BV1jW411K7yg&quot;</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>下载站</title>
