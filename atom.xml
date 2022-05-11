@@ -6,7 +6,7 @@
   <link href="https://blog.lllm.ml/atom.xml" rel="self"/>
   
   <link href="https://blog.lllm.ml/"/>
-  <updated>2022-05-11T01:06:35.000Z</updated>
+  <updated>2022-05-11T01:07:15.000Z</updated>
   <id>https://blog.lllm.ml/</id>
   
   <author>
@@ -17,13 +17,13 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>video</title>
+    <title>递归</title>
     <link href="https://blog.lllm.ml/2022/05/10/video/"/>
     <id>https://blog.lllm.ml/2022/05/10/video/</id>
     <published>2022-05-10T16:51:46.000Z</published>
-    <updated>2022-05-11T01:06:35.000Z</updated>
+    <updated>2022-05-11T01:07:15.000Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="递归"><a href="#递归" class="headerlink" title="递归"></a>递归</h2><iframe src="https://blog.lllm.ml" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="580" quality="high"> </iframe><p>#<iframe src="https://www.bilibili.com/video/BV1jW411K7yg" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="580" quality="high"> </iframe></p>]]></content>
+    <content type="html"><![CDATA[<h2 id="递归"><a href="#递归" class="headerlink" title="递归"></a>递归</h2><iframe src="https://blog.lllm.ml" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="580" quality="high"> </iframe>]]></content>
     
     
       
