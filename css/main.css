@@ -1274,7 +1274,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #ffffc8;
+  background: #7f5bdf;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -1516,7 +1516,7 @@ pre .javascript .function {
   width: 100%;
 }
 .with-love {
-  color: #0000af;
+  color: #00A5DF;
   display: inline-block;
   margin: 0 5px;
 }

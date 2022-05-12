@@ -4,11 +4,7 @@
     <title>Vmware_ubuntu添加虚拟硬盘</title>
     <url>/2022/05/08/Vmware-ubuntu%E6%B7%BB%E5%8A%A0%E8%99%9A%E6%8B%9F%E7%A1%AC%E7%9B%98/</url>
     <content><![CDATA[<p>由于最近使用linux虚拟机编译openwrt固件,致单个虚拟磁盘文件过大，故分开存储Linux系统文件和openwrt编译文件。</p>
-<h2 id="初步准备"><a href="#初步准备" class="headerlink" title="初步准备"></a>初步准备</h2><h3 id="Vmware-workstation新建虚拟磁盘"><a href="#Vmware-workstation新建虚拟磁盘" class="headerlink" title="Vmware workstation新建虚拟磁盘"></a>Vmware workstation新建虚拟磁盘</h3><span id="more"></span>
-
-
-
-<p><img src="/img/Vmware_ubuntu%E6%B7%BB%E5%8A%A0%E8%99%9A%E6%8B%9F%E7%A1%AC%E7%9B%98/vmware_disk.jpg" alt="vmware_disk.jpg"></p>
+<h2 id="初步准备"><a href="#初步准备" class="headerlink" title="初步准备"></a>初步准备</h2><h3 id="Vmware-workstation新建虚拟磁盘"><a href="#Vmware-workstation新建虚拟磁盘" class="headerlink" title="Vmware workstation新建虚拟磁盘"></a>Vmware workstation新建虚拟磁盘</h3><p><img src="/img/Vmware_ubuntu%E6%B7%BB%E5%8A%A0%E8%99%9A%E6%8B%9F%E7%A1%AC%E7%9B%98/vmware_disk.jpg" alt="vmware_disk.jpg"></p>
 <h3 id="使用df命令产看当前系统已挂载的磁盘"><a href="#使用df命令产看当前系统已挂载的磁盘" class="headerlink" title="使用df命令产看当前系统已挂载的磁盘"></a>使用df命令产看当前系统已挂载的磁盘</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ <span class="built_in">df</span> -h</span><br></pre></td></tr></table></figure>
 
 <p><img src="/img/Vmware_ubuntu%E6%B7%BB%E5%8A%A0%E8%99%9A%E6%8B%9F%E7%A1%AC%E7%9B%98/df_command.jpg" alt="df_command.jpg"></p>
@@ -73,11 +69,7 @@
     <content><![CDATA[<h4 id="计算机组成原理"><a href="#计算机组成原理" class="headerlink" title="计算机组成原理"></a>计算机组成原理</h4><blockquote>
 <p><a href="https://github.com/FL-Studi0/download-lib/releases/download/pdf/3208724_.4.pdf">计算机组成原理（第4版）.pdf</a></p>
 </blockquote>
-<h4 id="必备虚拟机，已解锁Macos"><a href="#必备虚拟机，已解锁Macos" class="headerlink" title="必备虚拟机，已解锁Macos"></a>必备虚拟机，已解锁Macos</h4><span id="more"></span>
-
-
-
-<blockquote>
+<h4 id="必备虚拟机，已解锁Macos"><a href="#必备虚拟机，已解锁Macos" class="headerlink" title="必备虚拟机，已解锁Macos"></a>必备虚拟机，已解锁Macos</h4><blockquote>
 <p><a href="https://github.com/FL-Studi0/download-lib/releases/download/software/VMware-Workstation-Lite-16.2.3-19376536.exe">VMware-Workstation-Lite-16.2.3-19376536.exe</a></p>
 </blockquote>
 <h4 id="刷写固件用"><a href="#刷写固件用" class="headerlink" title="刷写固件用"></a>刷写固件用</h4><blockquote>
