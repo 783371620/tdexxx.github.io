@@ -3,7 +3,7 @@
   <entry>
     <title>Vmware_ubuntu添加虚拟硬盘</title>
     <url>/2022/05/08/Vmware-ubuntu%E6%B7%BB%E5%8A%A0%E8%99%9A%E6%8B%9F%E7%A1%AC%E7%9B%98/</url>
-    <content><![CDATA[<p>由于最近用<a href="https://www.vmware.com/cn/products/workstation-pro/workstation-pro-evaluation.html">vmware workstation</a> linux编译openwrt,导致单个虚拟磁盘文件过大，故分开存储Linux系统文件和openwrt编译文件。</p>
+    <content><![CDATA[<p>由于最近使用linux虚拟机编译openwrt固件,致单个虚拟磁盘文件过大，故分开存储Linux系统文件和openwrt编译文件。</p>
 <h2 id="初步准备"><a href="#初步准备" class="headerlink" title="初步准备"></a>初步准备</h2><h3 id="Vmware-workstation新建虚拟磁盘"><a href="#Vmware-workstation新建虚拟磁盘" class="headerlink" title="Vmware workstation新建虚拟磁盘"></a>Vmware workstation新建虚拟磁盘</h3><span id="more"></span>
 
 
@@ -63,24 +63,24 @@
 
 <h3 id="设置文件夹用户组防止非root用户无法访问"><a href="#设置文件夹用户组防止非root用户无法访问" class="headerlink" title="设置文件夹用户组防止非root用户无法访问"></a>设置文件夹用户组防止非root用户无法访问</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ sudo <span class="built_in">chown</span> user:user disk/</span><br></pre></td></tr></table></figure>
 
-<h2 id="结束语"><a href="#结束语" class="headerlink" title="结束语"></a>结束语</h2><p>无，放张图</p>
+<h2 id="完"><a href="#完" class="headerlink" title="完"></a>完</h2><p>end</p>
 <p><img src="/img/Vmware_ubuntu%E6%B7%BB%E5%8A%A0%E8%99%9A%E6%8B%9F%E7%A1%AC%E7%9B%98/furry.jpg" alt="furry.jpg"></p>
 ]]></content>
   </entry>
   <entry>
     <title>自用下载页</title>
     <url>/2022/05/10/%E8%87%AA%E7%94%A8%E4%B8%8B%E8%BD%BD%E9%A1%B5/</url>
-    <content><![CDATA[<h3 id="计算机组成原理"><a href="#计算机组成原理" class="headerlink" title="计算机组成原理"></a>计算机组成原理</h3><blockquote>
+    <content><![CDATA[<h4 id="计算机组成原理"><a href="#计算机组成原理" class="headerlink" title="计算机组成原理"></a>计算机组成原理</h4><blockquote>
 <p><a href="https://github.com/FL-Studi0/download-lib/releases/download/pdf/3208724_.4.pdf">计算机组成原理（第4版）.pdf</a></p>
 </blockquote>
-<h3 id="必备虚拟机，已解锁Macos"><a href="#必备虚拟机，已解锁Macos" class="headerlink" title="必备虚拟机，已解锁Macos"></a>必备虚拟机，已解锁Macos</h3><span id="more"></span>
+<h4 id="必备虚拟机，已解锁Macos"><a href="#必备虚拟机，已解锁Macos" class="headerlink" title="必备虚拟机，已解锁Macos"></a>必备虚拟机，已解锁Macos</h4><span id="more"></span>
 
 
 
 <blockquote>
 <p><a href="https://github.com/FL-Studi0/download-lib/releases/download/software/VMware-Workstation-Lite-16.2.3-19376536.exe">VMware-Workstation-Lite-16.2.3-19376536.exe</a></p>
 </blockquote>
-<h3 id="刷写固件用"><a href="#刷写固件用" class="headerlink" title="刷写固件用"></a>刷写固件用</h3><blockquote>
+<h4 id="刷写固件用"><a href="#刷写固件用" class="headerlink" title="刷写固件用"></a>刷写固件用</h4><blockquote>
 <p><a href="https://github.com/FL-Studi0/download-lib/releases/download/software/balenaEtcher-Setup-1.7.9.exe">balenaEtcher-Setup-1.7.9.exe</a></p>
 </blockquote>
 <h4 id="自用OpenWrt固件-mt76x8-amp-amp-armv8"><a href="#自用OpenWrt固件-mt76x8-amp-amp-armv8" class="headerlink" title="自用OpenWrt固件(mt76x8 &amp;&amp; armv8)"></a>自用OpenWrt固件(mt76x8 &amp;&amp; armv8)</h4><blockquote>
