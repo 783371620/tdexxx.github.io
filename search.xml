@@ -66,10 +66,12 @@
 <p><img src="/img/Vmware_ubuntu%E6%B7%BB%E5%8A%A0%E8%99%9A%E6%8B%9F%E7%A1%AC%E7%9B%98/furry.jpg" alt="furry.jpg"></p>
 ]]></content>
       <categories>
-        <category>计算机</category>
+        <category>日常</category>
       </categories>
       <tags>
-        <tag>linux</tag>
+        <tag>Linux</tag>
+        <tag>OpenWrt</tag>
+        <tag>vmware</tag>
       </tags>
   </entry>
   <entry>
@@ -91,5 +93,13 @@
 <p><a href="https://github.com/FL-Studi0/download-lib/releases/download/else/openwrt-ramips-mt76x8-xiaomi_miwifi-nano-squashfs-sysupgrade.bin">openwrt-ramips-mt76x8-xiaomi_miwifi-nano-squashfs-sysupgrade.bin</a><br><a href="https://github.com/FL-Studi0/download-lib/releases/download/else/openwrt-rockchip-armv8-friendlyarm_nanopi-r2s-squashfs-sysupgrade.img.gz">openwrt-rockchip-armv8-friendlyarm_nanopi-r2s-squashfs-sysupgrade.img.gz</a></p>
 </blockquote>
 ]]></content>
+      <categories>
+        <category>资源分享</category>
+      </categories>
+      <tags>
+        <tag>OpenWrt</tag>
+        <tag>vmware</tag>
+        <tag>计算机</tag>
+      </tags>
   </entry>
 </search>
