@@ -89,6 +89,9 @@
 <h4 id="刷写固件用"><a href="#刷写固件用" class="headerlink" title="刷写固件用"></a>刷写固件用</h4><blockquote>
 <p><a href="https://github.com/FL-Studi0/download-lib/releases/download/software/balenaEtcher-Setup-1.7.9.exe">balenaEtcher-Setup-1.7.9.exe</a></p>
 </blockquote>
+<h4 id="EasyUEFI学习版"><a href="#EasyUEFI学习版" class="headerlink" title="EasyUEFI学习版"></a>EasyUEFI学习版</h4><blockquote>
+<p><a href="https://github.com/FL-Studi0/download-lib/releases/download/software/EasyUEFI.v4.6.Enterprise.exe">EasyUEFI.v4.6.Enterprise.exe</a></p>
+</blockquote>
 <h4 id="自用OpenWrt固件-mt76x8-amp-amp-armv8"><a href="#自用OpenWrt固件-mt76x8-amp-amp-armv8" class="headerlink" title="自用OpenWrt固件(mt76x8 &amp;&amp; armv8)"></a>自用OpenWrt固件(mt76x8 &amp;&amp; armv8)</h4><blockquote>
 <p><a href="https://github.com/FL-Studi0/download-lib/releases/download/else/openwrt-ramips-mt76x8-xiaomi_miwifi-nano-squashfs-sysupgrade.bin">openwrt-ramips-mt76x8-xiaomi_miwifi-nano-squashfs-sysupgrade.bin</a><br><a href="https://github.com/FL-Studi0/download-lib/releases/download/else/openwrt-rockchip-armv8-friendlyarm_nanopi-r2s-squashfs-sysupgrade.img.gz">openwrt-rockchip-armv8-friendlyarm_nanopi-r2s-squashfs-sysupgrade.img.gz</a></p>
 </blockquote>
